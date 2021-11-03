@@ -4,8 +4,7 @@ Trabalho desenvolvido durante a disciplina Visualização de Dados. Este trabalh
 </p>
 
 <p align="justify">
-Para executar a aplicação execute todas as células do notebook (https://github.com/mendesrafael2/Balanca_Comercial/blob/main/Balanca_Comercial.ipynb), em seguida clique no endereço que aparecerá na saída da última célula (Dash is running on http://xxx.x.x.x:xxx). Será aberta uma nova aba no navegador com a aplicação, similar a que aparece na imagem abaixo.
- 
+Para executar a aplicação execute todas as células do notebook (https://github.com/mendesrafael2/Balanca_Comercial/blob/main/Balanca_Comercial.ipynb), em seguida clique no endereço que aparecerá na saída da última célula (Dash is running on http://xxx.x.x.x:xxx). Será aberta uma nova aba no navegador com uma aplicação similar a que aparece na imagem abaixo.
 </p>
 
 <p align="center">
